@@ -1,5 +1,21 @@
-### Hi there 👋
+<h1 align="center">Heyyo! I'm Dimas Prasetya 👋</h1>
+<h3 align="center">Everything comes to you in the right moment.<br>Be Patient, Be Grateful.</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dimas-prasetya" alt="dimas-prasetya" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/dimas-prasetya/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dimas-prasetya&rank_icon=github&show_icons=true" />
+  </a>
+  
+  <a href="https://github.com/dimas-prasetya/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimas-prasetya&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</p>
 <!--
 **Dimas-Prasetya/Dimas-Prasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
