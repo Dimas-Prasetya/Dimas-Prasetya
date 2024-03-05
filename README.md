@@ -9,11 +9,11 @@
 
 <p align="center">
   <a href="https://github.com/dimas-prasetya/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dimas-prasetya&rank_icon=github&show_icons=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=dimas-prasetya&rank_icon=github&show_icons=true" />
   </a>
   
   <a href="https://github.com/dimas-prasetya/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimas-prasetya&layout=compact&langs_count=8&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimas-prasetya&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
 <!--
