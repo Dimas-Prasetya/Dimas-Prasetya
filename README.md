@@ -16,6 +16,12 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimas-prasetya&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/665d3191b998f3b3c75dec9b?variant=dark" alt="roadmap.sh"/></a>
+</p>
 <!--
 **Dimas-Prasetya/Dimas-Prasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
