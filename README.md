@@ -19,9 +19,9 @@
 
 <br>
 
-<p align="center">
+<!--p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/665d3191b998f3b3c75dec9b?variant=dark" alt="roadmap.sh"/></a>
-</p>
+</p-->
 <!--
 **Dimas-Prasetya/Dimas-Prasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
